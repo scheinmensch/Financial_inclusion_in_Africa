@@ -1,4 +1,4 @@
-*This is the one of the first machine learning projects I've been working on.*
+*This is the one of the first machine learning projects I've been working on. So there's still much room for improvement, I'm aware of this!*
 
 # Zindi Challenge [Financial inclusion in Africa](https://zindi.africa/competitions/financial-inclusion-in-africa/data)
 
