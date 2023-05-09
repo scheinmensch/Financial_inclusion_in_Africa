@@ -1,3 +1,5 @@
+*This is the one of the first machine learning projects I've been working on.*
+
 # Zindi Challenge [Financial inclusion in Africa](https://zindi.africa/competitions/financial-inclusion-in-africa/data)
 
 Access to bank accounts enable households to save and make payments while also helping businesses build up their credit-worthiness and improve their access to loans, insurance, and related services. Therefore, access to bank accounts is an essential contributor to long-term economic growth.
